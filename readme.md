@@ -7,4 +7,4 @@ bit of aeboards ext65, bit of wuque ikki68, bit of corsair k90 (the one with 3 c
 
 ![pcb](proto-6x.png)
 
-|| 6xe = 6x-extended ||
+<sub>6xe = 6x-extended</sub>
